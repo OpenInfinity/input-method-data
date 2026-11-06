@@ -1,10 +1,10 @@
 # input-method-data
 
-Data files that the Open Infinity pinyin input method downloads on demand. Nothing here is
+Data files that the OpenInfinity pinyin input method downloads on demand. Nothing here is
 meant to be downloaded by hand: the app fetches a pinned release asset, checks its size and
 SHA-256, and installs it.
 
-Open Infinity 拼音输入法按需下载的数据文件。这里的文件不需要手动下载：软件按固定的发布地址下载，
+OpenInfinity 拼音输入法按需下载的数据文件。这里的文件不需要手动下载：软件按固定的发布地址下载，
 核对大小和 SHA-256 后安装。
 
 ## Releases
